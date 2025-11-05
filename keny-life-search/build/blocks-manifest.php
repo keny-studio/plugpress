@@ -1,0 +1,26 @@
+<?php
+// This file is generated. Do not modify it manually.
+return array(
+	'keny-life-search' => array(
+		'$schema' => 'https://schemas.wp.org/trunk/block.json',
+		'apiVersion' => 3,
+		'name' => 'create-block/keny-life-search',
+		'version' => '0.1.0',
+		'title' => 'Keny Life Search',
+		'category' => 'widgets',
+		'icon' => 'smiley',
+		'description' => 'Life Search Block by KENY.STUDIO. / JavaScript REST API ',
+		'example' => array(
+			
+		),
+		'supports' => array(
+			'html' => false
+		),
+		'textdomain' => 'keny-life-search',
+		'editorScript' => 'file:./index.js',
+		'editorStyle' => 'file:./index.css',
+		'style' => 'file:./style-index.css',
+		'render' => 'file:./render.php',
+		'viewScript' => 'file:./view.js'
+	)
+);
