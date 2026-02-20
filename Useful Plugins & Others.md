@@ -1,7 +1,9 @@
-Useful Plugins List:
+## $${\color{red}Useful \ Plugins \ and \ Others}$$
 
-- Admin and Site Enhancments (ASE)
-- Advanced Custom Fields
+### Plugins
+
+- ASE - Admin and Site Enhancments
+- ACF - Advanced Custom Fields
 - Complianz | GDPR/CCPA Cookie Consent
 - Lightbox for Gallery & Image Block
 - LiteSpeed Cache
@@ -12,3 +14,7 @@ Useful Plugins List:
 - OMGF | GDPR/DSGVO Compliant, Faster Google Fonts. Easy.
 - FakerPress | Create Dummy WordPress Content for development 
 - Relevanssi | replaces standard WordPress search engine, adding lots of features and configurable options
+
+### Others
+
+- WPackagist | Composer repository that allows to manage WordPress extensions, like bulk installing 
