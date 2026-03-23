@@ -14,6 +14,7 @@
 - OMGF | GDPR/DSGVO Compliant, Faster Google Fonts. Easy.
 - FakerPress | Create Dummy WordPress Content for development 
 - Relevanssi | replaces standard WordPress search engine, adding lots of features and configurable options
+- White Label CMS - allows to customise admin panel of content management system
 
 ### Others
 
