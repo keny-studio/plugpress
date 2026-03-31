@@ -19,6 +19,7 @@
 | Simple Cutom Post Order | Content sorting using drag-and-drop functionality - complete control over content order |
 | User Submitted Posts | provides a front-end form that enables visitors to submit posts and upload image |
 | myCred | Points Management System For Gamification, Ranks, Badges, and Loyalty Rewards Program |
+| Advaced Product Fields for WooCommerce | allows you to add extra product options to WooCommerce product pages |
 
 
 ### Others
