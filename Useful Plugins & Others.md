@@ -20,7 +20,7 @@
 | User Submitted Posts | provides a front-end form that enables visitors to submit posts and upload image |
 | myCred | Points Management System For Gamification, Ranks, Badges, and Loyalty Rewards Program |
 | Advaced Product Fields for WooCommerce | allows you to add extra product options to WooCommerce product pages |
-
+| Password Protected | password protect posts, pages, categories, WooCommerce products, login page, partial content |
 
 ### Others
 | NAME | DESCRIPTION |
